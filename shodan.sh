@@ -7,11 +7,11 @@ clear
 function banner(){
 		echo -e "\t${p}_________________________"
 		echo -e "\t${h}  TOOLS SCANNING PROXY"
-		echo -e "\t${p}   Author${m}: ${p}Mr.Tr3v!0n"
-		echo -e "\t${p}    Black Coder Crush"
-		echo -e "\t${p}Telegram${m}: ${p}@config_geratis"
+		echo -e "\t${p}   Author${m}: ${p}Cloningtool"
+		echo -e "\t${p}    Waton Suloyo"
+		echo -e "\t${p}Telegram${m}: ${p}Proxyhunter"
 		echo -e "\t${p}_________________________"
-	   	echo -e "\t${p} Shodan.io | Version:1.0\n\n"
+	   	echo -e "\t${p} Shodan.sh | Version:2.0\n\n"
 }
 banner
 
@@ -24,7 +24,7 @@ function sec(){
 		done
 }
 
-printf "\t${p}[${h}•${p}] PROXY YOU?${m}: ${p}"
+printf "\t${p}[${h}•${p}] PROXY YOU CUK?${m}: ${p}"
 read proxy;
 
 	if \
